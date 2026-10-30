@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Gaman-dev/.github/main/profile/logo.png" alt="Electrosoluciones Gaman" width="120">
+
 # Electrosoluciones Gaman
 
 **Software administrativo · Automatización de procesos · Tecnología para máquinas expendedoras**
